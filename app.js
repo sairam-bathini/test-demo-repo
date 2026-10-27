@@ -1,6 +1,6 @@
 // app.js - Test file for secret scanning
 
-// 1. A simulated AWS Access Key (Using a known fake format)
+// 1. A simulated AWS Access Key (Using a known fake formats)
 const aws_key = "AKIAIOSFODNN7EXAMPLE";
 const aws_secret = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY";
 
